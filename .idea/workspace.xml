@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6418b7ff-dd32-41fc-a054-37af1849fb7a" name="Changes" comment="Creation of the first page">
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/FileJSONDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/FileTXTDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/FileXMLDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/IDataStoreInitializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/controller/IDataStoreOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/model/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/model/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/ui/AgendaUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/ui/DriverProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/ui/NewAgendaDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agendaejp/src/ui/NewContactDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleSimulator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkboxes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkboxes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkboxes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkboxes/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkboxes/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkboxes/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/lib/org.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/FileJSONDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/FileTXTDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/FileXMLDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/IDataStoreInitializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/controller/IDataStoreOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/model/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/model/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/ui/AgendaUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/ui/DriverProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/ui/NewAgendaDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploAgendaTelefonica/src/edu/uvg/ej4/ui/NewContactDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemplosPoo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejemplos_OOP2022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 2 Hogares para perros" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio Herencia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FigurasGeo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstExampleKotlin/src/main/ExampleMain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDT10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HDT10.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOJADETRABAJO6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HOJADETRABAJO6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hoja-de-Trabajo-7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HojaDeTrabajo7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HojaDeTrabajo7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HojaTrabajo3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JuegoBatalla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabPerrera" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROYECTO1_Estructuras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto-" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto-.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proyecto1Estructuras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/QueOndaMano" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/controller/Controlador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/controller/Encriptar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/controller/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/controller/Persistencia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/exceptions/credencialesIncorrectasException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/exceptions/existingUserException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/exceptions/maxCharException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/Administrador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/Emoticon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/Multimedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/Texto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/Usuario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/model/UsuarioNormal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QueOndaMano/out/production/QueOndaMano/view/DriverProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repository-example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistemaDeRecomendaciones" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentsArrays" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Traductor_HDT7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/.idea/libraries/assets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/.idea/libraries/assets1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/assets/neo4j-java-driver-4.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/assets/neo4j-java-driver-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/assets/neo4j-java-driver-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/assets/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/projectequipos/Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/projectequipos/Connection.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/projectequipos/ProjectEquipos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/projectequipos/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/assets/neo4j-java-driver-4.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/assets/neo4j-java-driver-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/assets/neo4j-java-driver-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/assets/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/projectequipos/Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/projectequipos/ProjectEquipos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/out/production/projectEquipos/projectequipos/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/assets/neo4j-java-driver-4.3.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/assets/neo4j-java-driver-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/assets/neo4j-java-driver-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/assets/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/projectequipos/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/projectequipos/ProjectEquipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectEquipos/src/projectequipos/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../projectEquipos/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path1.html" beforeDir="false" afterPath="$PROJECT_DIR$/path1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path10.html" beforeDir="false" afterPath="$PROJECT_DIR$/path10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path2.html" beforeDir="false" afterPath="$PROJECT_DIR$/path2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path3.html" beforeDir="false" afterPath="$PROJECT_DIR$/path3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path4.html" beforeDir="false" afterPath="$PROJECT_DIR$/path4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path5.html" beforeDir="false" afterPath="$PROJECT_DIR$/path5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path6.html" beforeDir="false" afterPath="$PROJECT_DIR$/path6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path7.html" beforeDir="false" afterPath="$PROJECT_DIR$/path7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path8.html" beforeDir="false" afterPath="$PROJECT_DIR$/path8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path9.html" beforeDir="false" afterPath="$PROJECT_DIR$/path9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.prod.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="José Gramajo &lt;gra22907@uvg.edu.gt&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2bf4qz2O9mNDYvyVxaruRoa8O9l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6418b7ff-dd32-41fc-a054-37af1849fb7a" name="Changes" comment="" />
+      <created>1706592996283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706592996283</updated>
+      <workItem from="1706592997618" duration="3065000" />
+      <workItem from="1706636575692" duration="23762000" />
+      <workItem from="1708027744295" duration="5598000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1706593805840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706593805840</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1706593968241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706593968241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Image">
+      <created>1706594537943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706594537944</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Image">
+      <created>1706594883939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706594883939</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Image">
+      <created>1706641333294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706641333294</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creation of the second page">
+      <created>1706653771160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706653771160</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creation of the third page and some changes on first 'n second page">
+      <created>1706659373661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706659373661</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creation of the fourth page">
+      <created>1706661795522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706661795522</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Creation of the fith page">
+      <created>1706662914281</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706662914281</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Creation of the six page">
+      <created>1706664274736</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706664274736</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Creation of the seven page">
+      <created>1706666962442</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706666962442</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Creation of the eight page">
+      <created>1706668631211</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706668631211</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Creation of the nine page">
+      <created>1706670549319</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706670549319</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Creation of the ten page">
+      <created>1706673461169</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706673461169</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Some final changes in all the pages">
+      <created>1706675148316</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706675148316</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="." />
+    <MESSAGE value="Creation of the first page" />
+    <MESSAGE value="Creation of the second page" />
+    <MESSAGE value="Creation of the third page and some changes on first 'n second page" />
+    <MESSAGE value="Creation of the fourth page" />
+    <MESSAGE value="Creation of the fith page" />
+    <MESSAGE value="Creation of the six page" />
+    <MESSAGE value="Creation of the seven page" />
+    <MESSAGE value="Creation of the eight page" />
+    <MESSAGE value="Creation of the nine page" />
+    <MESSAGE value="Creation of the ten page" />
+    <MESSAGE value="Some final changes in all the pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some final changes in all the pages" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
